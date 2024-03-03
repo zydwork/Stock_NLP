@@ -1,0 +1,1 @@
+scaler = MinMaxScaler(feature_range=(-1, 1))
